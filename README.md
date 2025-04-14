@@ -1,4 +1,4 @@
-# Car Color Detection and Counting
+# Car Color Detection 
 
 ## Project Description
 
